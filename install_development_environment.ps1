@@ -19,7 +19,8 @@ choco install wsl-ubuntu-2004 --params "/InstallRoot:true" -y
 # program languages
 Write-Host "====> Installing core components..."
 choco install python3 -y
-choco install openjdk
+choco install openjdk -y # latest jdk
+# choco install openjdk11 -y
 
 
 # core components
