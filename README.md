@@ -5,6 +5,8 @@ Firstly, you need to install Chocolatey. You can find more information from http
 Follow the steps in *Install Chocolatey for Individual Use*
 
 After that open your preferde terminal (as admin) and run
-´.\setup_development_environment.ps1´
+```` 
+.\setup_development_environment.ps1 
+````
 
 Credit goes to https://github.com/berkanuslu/choco-development-enviroment-setup
